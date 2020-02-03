@@ -1,0 +1,15 @@
+[
+    {
+        "extension": "cha",
+        "datatype": "cha",
+        "pattern": "xxxx xxxx",
+        "fields": [
+            {
+                "name": "_Bus",
+                "start": 0,
+                "end": 4,
+                "type": "string"
+            }
+        ]
+    }
+]

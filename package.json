@@ -1,16 +1,25 @@
 {
-  "name": "test",
+  "name": "apc-load",
   "version": "1.0.0",
-  "description": "",
+  "description": "The APC data files are text data files with fixed-width columns.",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cityofasheville/apc-load.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "nodemon": "^2.0.2"
-  }
+  "bugs": {
+    "url": "https://github.com/cityofasheville/apc-load/issues"
+  },
+  "homepage": "https://github.com/cityofasheville/apc-load#readme"
 }
